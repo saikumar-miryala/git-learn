@@ -1,1 +1,3 @@
 Understand usage, cost and revenue metrics over user cohorts. Find what is adopted and what is driving adoption
+adding extra line to check for git add & commit check at single shot.
+
