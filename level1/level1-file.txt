@@ -1,0 +1,6 @@
+Not sure how and why that works for you. That should not have worked in the first place. To edit the config globally in editor, you should use below command :
+
+git config --global --edit
+This should open a text editor, make your changes ,save and exit the editor. That should work.
+
+If you don't want to use the command and still want to be able to edit the git config, then locate the .gitconfig file in your home directory $HOME/.gitconfig.

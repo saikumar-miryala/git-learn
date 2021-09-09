@@ -1,0 +1,3 @@
+I believe it is opening in vi editor. I can tell for windows: If that is the case, make changes to file, hit ESC, type :wq and hit return (the Enter key on Windows). wq is to save your changes and exit. just typing :q exits without saving. – 
+Asif Kamran Malick
+ Mar 4 at 13:58 
